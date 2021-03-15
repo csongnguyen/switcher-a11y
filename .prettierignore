@@ -1,0 +1,6 @@
+.vscode
+.idea
+.out
+build
+docs
+/v0.*

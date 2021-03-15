@@ -96,7 +96,8 @@ const renderIcons = (icons: CanvasAccentIcon[], rowLength: number = 3): JSX.Elem
  * 
  * As a user, I should be able to:
  * 1. select a row/item by tapping when the item/row I want is highlighted
- * 2. When a row/item is selected, it should show the options in a popup that a user can do with that item (in this case, maybe show 3 different things that can happen, maybe change color, maybe console.log, maybe popup?)
+ * 2. When a row/item is selected, it should show the options in a popup that a user can do with that item 
+ * (in this case, maybe show 3 different things that can happen, maybe change color, maybe console.log, maybe popup?)
  * 
  */
 function App() {
